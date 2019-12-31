@@ -43,7 +43,8 @@ export default class Node extends Component {
           </div>
           <Input
             className={styles.input}
-            placeholder="https://api.tron.watch"
+            //placeholder="https://api.tron.watch"
+            placeholder="192.168.0.54:3001"
             onChange={this.updateValue}
           />
           <Button
