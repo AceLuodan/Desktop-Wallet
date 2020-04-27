@@ -207,7 +207,7 @@
     "source-map-support": "^0.5.3",
     "tron-http-client": "tronwatch/tron-http-client",
     "tron-http-tools": "tronwatch/tron-http-tools",
-    "tronweb": "tronprotocol/tronweb"
+    "tronweb": "^2.10.1"
   },
   "devEngines": {
     "node": ">=7.x",
