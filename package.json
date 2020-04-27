@@ -205,9 +205,9 @@
     "redux-thunk": "^2.2.0",
     "semantic-ui-react": "^0.80.0",
     "source-map-support": "^0.5.3",
-    "tron-http-client": "AceLuodan/tron-http-client",
-    "tron-http-tools": "AceLuodan/tron-http-tools",
-    "tronweb": "TRON-US/tronweb"
+    "tron-http-client": "tronwatch/tron-http-client",
+    "tron-http-tools": "tronwatch/tron-http-tools",
+    "tronweb": "tronprotocol/tronweb"
   },
   "devEngines": {
     "node": ">=7.x",
